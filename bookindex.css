@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(178, 162, 181, 0.668);
+}
+
+h2{
+    text-align: center;
+    justify-content: center;
+    color: rgb(118, 4, 78);
+}
+
+table{
+    /* width: 100%; */
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    width: 1500px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}

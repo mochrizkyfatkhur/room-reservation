@@ -1,0 +1,10 @@
+table{
+    margin: 2px;
+    width: 100%;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    justify-content: center;
+    color: aquamarine;
+}
